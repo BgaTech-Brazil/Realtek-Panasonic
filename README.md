@@ -2,19 +2,23 @@
 
 ## BGA TECH BRAZIL
 
+<p align="center">
+  <img src="./Imagens/placa_realtek_panasonic_frente.jpg" alt="MOD BR REALTEK PARA PANASONIC" width="100%">
+</p>
+
 ---
 
 ## ✅ PROJETO CONCLUÍDO E PRONTO PARA PRODUÇÃO
 
 O **MOD BR — REALTEK PARA PANASONIC** está **concluído e pronto para produção**.
 
-Os arquivos de fabricação da PCB estão disponíveis em **formato GERBER**, permitindo que o projeto seja enviado para fabricação profissional de placas de circuito impresso.
+Os arquivos de fabricação da PCB estão disponíveis em **formato GERBER**, permitindo que o projeto seja enviado diretamente para fabricação profissional de placas de circuito impresso.
 
 ---
 
 ## 📌 SOBRE O PROJETO
 
-Este projeto apresenta o **MOD BR — REALTEK PARA PANASONIC**, desenvolvido com o objetivo de criar uma alternativa técnica para reparos em **PlayStation 5**.
+Este projeto apresenta o **MOD BR — REALTEK PARA PANASONIC**, desenvolvido como uma alternativa técnica para reparos em **PlayStation 5**.
 
 O projeto foi desenvolvido pela **BGA TECH BRAZIL** e representa uma contribuição para a comunidade técnica, reparadores de consoles e gamers de todo o mundo.
 
@@ -54,7 +58,7 @@ A iniciativa busca contribuir para:
 
 ## 🔧 DESENVOLVIMENTO DO PROJETO
 
-O desenvolvimento do projeto envolveu diversas etapas de análise e validação.
+O desenvolvimento do projeto envolveu diversas etapas de análise, desenvolvimento e validação.
 
 Entre elas:
 
@@ -79,13 +83,7 @@ Entre elas:
 
 A placa desenvolvida para o **MOD BR — REALTEK PARA PANASONIC** está pronta para fabricação.
 
-Os arquivos de produção estão disponibilizados em formato:
-
-### GERBER
-
-Os arquivos GERBER podem ser enviados para empresas especializadas em fabricação de placas de circuito impresso.
-
-Eles contêm as informações necessárias para produção da PCB.
+Os arquivos de produção foram gerados em **formato GERBER** e podem ser utilizados por empresas especializadas em fabricação de placas de circuito impresso.
 
 Dependendo do pacote disponibilizado, poderão estar presentes:
 
@@ -99,6 +97,8 @@ Dependendo do pacote disponibilizado, poderão estar presentes:
 * Arquivos de furação;
 * Arquivos auxiliares de fabricação.
 
+> **O projeto encontra-se pronto para produção da PCB através dos arquivos GERBER disponibilizados neste repositório.**
+
 ---
 
 ## 📂 ARQUIVOS DO PROJETO
@@ -106,7 +106,7 @@ Dependendo do pacote disponibilizado, poderão estar presentes:
 Este repositório poderá conter:
 
 * Arquivos GERBER;
-* PCB;
+* Arquivos da PCB;
 * Diagramas;
 * Esquemas;
 * Pinagens;
@@ -123,29 +123,22 @@ Este repositório poderá conter:
 
 ## 📁 ESTRUTURA DO REPOSITÓRIO
 
-A organização do projeto poderá seguir esta estrutura:
-
 ```text
 Realtek-Panasonic/
 │
 ├── README.md
 │
+├── Imagens/
+│   └── placa_realtek_panasonic_frente.jpg
+│
 ├── GERBER/
 │   └── Arquivos para fabricação da PCB
 │
-├── Imagens/
-│   └── Fotos do projeto
-│
 ├── Diagramas/
-│
 ├── Esquemas/
-│
 ├── Pinagem/
-│
 ├── PCB/
-│
 ├── Testes/
-│
 └── Documentacao/
 ```
 
@@ -153,13 +146,11 @@ Realtek-Panasonic/
 
 ## 📸 IMAGENS DO PROJETO
 
-As imagens do desenvolvimento, PCB, montagem e instalação poderão ser adicionadas neste repositório.
+As imagens do desenvolvimento, PCB, montagem e instalação do projeto poderão ser disponibilizadas neste repositório.
 
-Exemplo:
-
-```markdown
-![MOD BR REALTEK PARA PANASONIC](Imagens/placa_realtek_panasonic_frente.jpg)
-```
+<p align="center">
+  <img src="./Imagens/placa_realtek_panasonic_frente.jpg" alt="PCB MOD BR REALTEK PARA PANASONIC" width="90%">
+</p>
 
 ---
 
@@ -198,12 +189,12 @@ Antes de realizar qualquer modificação, verifique cuidadosamente:
 * Alimentações;
 * Orientação dos componentes;
 * Continuidade;
-* Curto-circuitos;
+* Possíveis curtos-circuitos;
 * Pontos de conexão;
 * Soldagem;
 * Integridade das trilhas.
 
-Uma conexão incorreta poderá causar danos ao console ou aos componentes utilizados.
+Uma conexão incorreta poderá causar danos permanentes ao console ou aos componentes utilizados.
 
 A reprodução deste projeto deve ser realizada por profissionais com conhecimento técnico adequado.
 
@@ -211,12 +202,12 @@ A reprodução deste projeto deve ser realizada por profissionais com conhecimen
 
 ## 🧪 TESTES E VALIDAÇÃO
 
-O projeto passou por etapas de desenvolvimento, teste e validação antes da geração dos arquivos finais de produção.
+O projeto passou por etapas de desenvolvimento, testes e validação antes da geração dos arquivos finais destinados à produção.
 
-Mesmo com o projeto concluído, novas informações poderão ser adicionadas conforme surgirem:
+Mesmo com o projeto concluído, novas informações poderão ser adicionadas caso sejam identificadas:
 
-* Novos testes;
 * Melhorias;
+* Novos testes;
 * Novas revisões;
 * Correções;
 * Novas compatibilidades;
@@ -229,9 +220,7 @@ Mesmo com o projeto concluído, novas informações poderão ser adicionadas con
 
 Sempre consulte a versão mais recente deste repositório antes de fabricar ou instalar a PCB.
 
-Novas revisões poderão conter melhorias importantes.
-
-Caso exista mais de uma versão dos arquivos GERBER, utilize sempre a revisão indicada como mais recente e validada.
+Caso existam diferentes revisões dos arquivos GERBER, utilize sempre a versão indicada como mais recente e validada.
 
 ---
 
@@ -239,7 +228,7 @@ Caso exista mais de uma versão dos arquivos GERBER, utilize sempre a revisão i
 
 Contribuições técnicas são bem-vindas.
 
-Caso você reproduza o projeto e descubra:
+Caso você reproduza este projeto e encontre:
 
 * Uma melhoria;
 * Uma correção;
@@ -247,10 +236,10 @@ Caso você reproduza o projeto e descubra:
 * Uma nova compatibilidade;
 * Uma nova forma de instalação;
 * Um resultado diferente;
-* Uma melhoria no layout;
 * Uma melhoria na PCB;
+* Uma melhoria no layout;
 
-essas informações poderão ajudar no desenvolvimento de futuras revisões.
+essas informações poderão contribuir para futuras revisões do projeto.
 
 O compartilhamento de conhecimento fortalece toda a comunidade técnica.
 
@@ -274,17 +263,17 @@ Ao compartilhar este projeto, imagens, informações ou trabalhos derivados, man
 
 Este projeto nasceu através de pesquisa, análise eletrônica, desenvolvimento e testes.
 
-O objetivo não é apenas apresentar uma placa, mas também incentivar outros profissionais a desenvolverem novas soluções para problemas que atualmente possuem poucas alternativas de reparo.
+O objetivo não é apenas apresentar uma placa, mas também contribuir para o desenvolvimento de novas soluções para problemas que atualmente possuem poucas alternativas de reparo.
 
-A evolução da eletrônica depende diretamente de:
+A evolução técnica depende de:
 
-**Pesquisa + conhecimento + testes + compartilhamento.**
+**Pesquisa + conhecimento + testes + desenvolvimento + compartilhamento.**
 
 ---
 
 ## ♻️ REDUÇÃO DE DESCARTE ELETRÔNICO
 
-Uma das principais consequências positivas deste tipo de projeto é permitir que equipamentos eletrônicos que poderiam ser descartados tenham uma nova possibilidade de reparo.
+Projetos como este também podem contribuir para reduzir o descarte de equipamentos que ainda possuem possibilidade de reparo.
 
 Cada console recuperado representa:
 
@@ -292,7 +281,7 @@ Cada console recuperado representa:
 * Menor descarte de placas;
 * Maior vida útil do equipamento;
 * Economia para o proprietário;
-* Preservação de consoles reparáveis.
+* Preservação de equipamentos reparáveis.
 
 ---
 
@@ -300,11 +289,7 @@ Cada console recuperado representa:
 
 **BGA TECH BRAZIL**
 
-Projeto desenvolvido no Brasil.
-
-🇧🇷 **Brazil**
-
-Desenvolvido para a comunidade mundial de:
+Projeto desenvolvido no Brasil 🇧🇷 para a comunidade mundial de:
 
 * Técnicos;
 * Reparadores;
@@ -318,7 +303,7 @@ Desenvolvido para a comunidade mundial de:
 
 Este projeto, o **MOD BR — REALTEK PARA PANASONIC**, é a minha contribuição para o mundo dos gamers e para a comunidade técnica.
 
-O objetivo é permitir que essa solução possa ser reproduzida por profissionais ao redor do mundo e ajudar a **salvar consoles PlayStation 5** que poderiam não possuir outra alternativa de reparo.
+O objetivo é permitir que esta solução possa ser reproduzida por profissionais ao redor do mundo e ajudar a **salvar consoles PlayStation 5** que poderiam não possuir outra alternativa de reparo.
 
 Milhares de consoles podem deixar de ser descartados quando existe:
 
@@ -345,4 +330,3 @@ Milhares de consoles podem deixar de ser descartados quando existe:
 ### 📁 ARQUIVOS GERBER DISPONÍVEIS
 
 ### 🎮 PLAYSTATION 5 REPAIR PROJECT
-
