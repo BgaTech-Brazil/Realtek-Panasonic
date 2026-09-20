@@ -1,4 +1,4 @@
-# 🇧🇷 MOD BR — REALTEK PARA PANASONIC | PlayStation 5
+#  MOD BR — REALTEK PARA PANASONIC | PlayStation 5
 
 ## BGA TECH BRAZIL
 
