@@ -233,17 +233,9 @@ alextecsony@hotmail.com
 
 🇧🇷 PIX
 
-## 📢 COMPARTILHAMENTO DO PROJETO
+11 9 3283-9998
 
-Este projeto foi disponibilizado com o objetivo de compartilhar conhecimento técnico.
-
-Ao compartilhar este projeto, imagens, informações ou trabalhos derivados, mantenha os créditos do projeto original.
-
-### Créditos
-
-**MOD BR — REALTEK PARA PANASONIC**
-
-**BGA TECH BRAZIL 🇧🇷**
+Toda contribuição ajuda a continuar investindo em pesquisa, desenvolvimento, testes, fabricação de protótipos e compartilhamento de novos projetos com a comunidade técnica.
 
 ---
 
