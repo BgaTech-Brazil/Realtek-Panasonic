@@ -121,28 +121,6 @@ Este repositório poderá conter:
 
 ---
 
-## 📁 ESTRUTURA DO REPOSITÓRIO
-
-```text
-Realtek-Panasonic/
-│
-├── README.md
-│
-├── Imagens/
-│   └── placa_realtek_panasonic_frente.jpg
-│
-├── GERBER/
-│   └── Arquivos para fabricação da PCB
-│
-├── Diagramas/
-├── Esquemas/
-├── Pinagem/
-├── PCB/
-├── Testes/
-└── Documentacao/
-```
-
----
 
 ## 📸 IMAGENS DO PROJETO
 
@@ -244,6 +222,16 @@ essas informações poderão contribuir para futuras revisões do projeto.
 O compartilhamento de conhecimento fortalece toda a comunidade técnica.
 
 ---
+
+❤️ APOIE O PROJETO
+
+Se este projeto foi útil para você e deseja contribuir para que novos projetos, pesquisas, testes e desenvolvimentos continuem sendo realizados, você também pode apoiar a BGA TECH BRAZIL através de uma contribuição voluntária.
+
+💳 PayPal
+
+alextecsony@hotmail.com
+
+🇧🇷 PIX
 
 ## 📢 COMPARTILHAMENTO DO PROJETO
 
