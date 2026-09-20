@@ -107,11 +107,6 @@ Este repositório poderá conter:
 
 * Arquivos GERBER;
 * Arquivos da PCB;
-* Diagramas;
-* Esquemas;
-* Pinagens;
-* Mapeamentos;
-* Imagens;
 * Fotos do projeto;
 * Arquivos de fabricação;
 * Documentação;
